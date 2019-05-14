@@ -1,2 +1,2 @@
 # mlzoo
-ML playgroudn
+ML playground
